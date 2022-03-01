@@ -30,6 +30,8 @@
 
 .LabelInfoTooltip_infoTooltip__2fNp2{display:inline-block;order:2;margin-left:6px}
 
+.CheckboxField_labelRoot__3ufuQ{width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;margin-left:0}.CheckboxField_label__eBnIv{margin-left:12px;color:var(--secondary-text-color)}.CheckboxField_label__eBnIv.CheckboxField_disabled__1PFKw{color:var(--secondary-text-color);opacity:0.3}
+
 .FormLabel_formLabel__1IlAb{display:flex;font-size:14px;font-weight:600;line-height:16px;color:var(--secondary-text-color)}.FormLabel_formLabel__1IlAb.FormLabel_formLabelFocused__1Xkpy{color:var(--secondary-text-color)}.FormLabel_formLabel__1IlAb.FormLabel_disabled__1DSEX{color:var(--secondary-text-color);opacity:0.3}.FormLabel_formLabel__1IlAb.FormLabel_formLabelError__2Ukej{color:var(--error-text-color)}
 
 .InputGroupField_controlWrapper__1hvfg{margin:0 16px 8px 0}.InputGroupField_control__2z7Oq{margin-right:12px}.InputGroupField_controlLabel__1qCsT{color:var(--secondary-text-color)}.InputGroupField_controlLabel__1qCsT.InputGroupField_disabled__24Zu9{color:var(--secondary-text-color);opacity:0.3}.InputGroupField_labelMargin__1tBSG{margin-bottom:16px}.InputGroupField_optionLabelinfo__3YWv3{margin-left:6px}
@@ -40,7 +42,7 @@
 
 .EnhancedMultiselect_autocompleteField__PHoJD,.EnhancedMultiselect_autocompleteField__PHoJD .MuiTextField-root{width:100%}.EnhancedMultiselect_chipsList__3KYoO{padding:0;margin-top:12px;margin-bottom:0;list-style-type:none}.EnhancedMultiselect_chipsListItem__2zqqB{display:inline-block;margin-top:12px}.EnhancedMultiselect_chipsListItem__2zqqB:not(:last-child){margin-right:12px}
 
-.IconButton_iconButton__2XbtX{min-width:0;max-width:-webkit-fit-content;max-width:-moz-fit-content;max-width:fit-content;border-radius:4px}.IconButton_iconButton__2XbtX svg{height:16px}.IconButton_small__1alV6{padding:8px}.IconButton_medium__s4Tg-{padding:12px}.IconButton_large__J0ZDO{padding:20px}.IconButton_round__2cUwu.IconButton_small__1alV6{border-radius:16px}.IconButton_round__2cUwu.IconButton_medium__s4Tg-{border-radius:20px}.IconButton_round__2cUwu.IconButton_large__J0ZDO{border-radius:28px}.IconButton_noBorder__hEHgp{border:unset !important}
+.IconButton_iconButton__2XbtX{min-width:0;max-width:-webkit-fit-content;max-width:-moz-fit-content;max-width:fit-content;border-radius:4px}.IconButton_iconButton__2XbtX svg{height:16px}.IconButton_extraSmall__2hLBr{padding:7px}.IconButton_extraSmall__2hLBr svg{height:10px}.IconButton_small__1alV6{padding:8px}.IconButton_medium__s4Tg-{padding:12px}.IconButton_large__J0ZDO{padding:20px}.IconButton_round__2cUwu.IconButton_extraSmall__2hLBr{border-radius:14px}.IconButton_round__2cUwu.IconButton_small__1alV6{border-radius:16px}.IconButton_round__2cUwu.IconButton_medium__s4Tg-{border-radius:20px}.IconButton_round__2cUwu.IconButton_large__J0ZDO{border-radius:28px}.IconButton_noBorder__hEHgp{border:unset !important}
 
 .Radio_radio__2EgYB{width:20px;height:20px;padding:0;color:var(--primary-stroke-color)}.Radio_radio__2EgYB.Radio_disabled__3yURf{color:var(--primary-stroke-color);opacity:0.3}.Radio_radio__2EgYB.Radio_checked__2xDAs{color:var(--primary-accent-color)}
 
@@ -59,4 +61,4 @@
 .ToggleButtonGroup_toggleButton__20H2e{font-size:14px;font-weight:600;line-height:16px;color:var(--primary-text-color);border-color:var(--secondary-stroke-color)}.ToggleButtonGroup_toggleButton__20H2e.ToggleButtonGroup_disabled__850fP{color:var(--primary-text-color);opacity:0.3}.ToggleButtonGroup_toggleButton__20H2e.ToggleButtonGroup_sizeSmall__BRZp1{font-size:12px}.ToggleButtonGroup_toggleButton__20H2e.ToggleButtonGroup_selected__1ZEWs{color:var(--inverse-text-color);background-color:var(--primary-accent-color);border-color:var(--secondary-stroke-color)}.ToggleButtonGroup_toggleButton__20H2e.ToggleButtonGroup_selected__1ZEWs svg{fill:var(--inverse-text-color)}.ToggleButtonGroup_toggleButton__20H2e.ToggleButtonGroup_selected__1ZEWs:hover{background-color:var(--primary-hover-color)}
 
 
-/*# sourceMappingURL=main.88a2b819.chunk.css.map*/
+/*# sourceMappingURL=main.ca50fe30.chunk.css.map*/
